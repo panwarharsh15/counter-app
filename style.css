@@ -1,0 +1,42 @@
+
+       
+      .div1 {
+        padding: 10px;
+        background-color: darkseagreen;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        border: 1px solid white;
+      }
+      
+      .counter {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+      }
+      
+      #count {
+        font-size: 4rem;
+        margin-bottom: 10px;
+      }
+      
+      button {
+        padding: 10px 20px;
+        font-size: 1.5rem;
+        margin: 0 10px;
+      }
+      .div-left{
+        padding: 10px;
+        background-color: darkseagreen;
+        border: 1px solid white;
+      }
+      .div-right{
+        padding: 10px;
+        background-color: darkseagreen;
+        border: 1px solid white;
+      }
+      
